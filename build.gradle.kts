@@ -46,7 +46,7 @@ tasks.withType<Test>{
 tasks.withType<Jar>{
 	enabled= true
 	manifest{
-		attributes["Main-Class"] = "nicolas2lee.github.com.springbootlambda.SpringbootLambdaApplication"
+		attributes["Main-Class"] = "nicolas2lee.github.com.example.lambda.springboot.Main"
 	}
 }
 

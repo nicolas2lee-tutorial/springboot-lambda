@@ -1,10 +1,10 @@
-package nicolas2lee.github.com.springbootlambda
+package nicolas2lee.github.com.example.lambda.springboot
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class SpringbootLambdaApplicationTests {
+class MainTests {
 
 	@Test
 	fun contextLoads() {
